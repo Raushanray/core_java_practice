@@ -1,0 +1,15 @@
+package core_java_practice;
+
+import java.awt.List;
+import java.util.ArrayList;
+import java.util.Arrays;
+
+public class SquareRootOfDoubles {
+	public static void main(String[] args) {
+		
+		List<Double> numbers = Arrays.asList(4.0, 9.0, 16.0, 25.0);
+		
+		List<Double> squareRoots = new ArrayList<>();
+	}
+
+}
